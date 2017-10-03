@@ -13,4 +13,4 @@ Garble runs text through multiple languages on Google Translate in order to crea
 ## Requirements:
 * Python 3.4.2 or higher
 * Click 6.7 or higher
-* (Googletrans 2.1.4 or higher)[https://github.com/ssut/py-googletrans]
+* [Googletrans 2.1.4 or higher](https://github.com/ssut/py-googletrans)
